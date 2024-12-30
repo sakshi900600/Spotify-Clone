@@ -204,6 +204,11 @@
      gap: 12px;
  }
 
+ .songbuttons img {
+     width: 25px;
+     cursor: pointer;
+ }
+
  .songList {
      height: 304px;
      margin-bottom: 33px;
